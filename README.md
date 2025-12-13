@@ -27,6 +27,6 @@ The design emphasizes simplicity, usability, and a professional look to ensure h
 ---
 
 ## 📂 Repository Structure
-- /figma-link.txt # Contains the Figma design link 
-- /screenshots/ # Exported design previews 
-- /README.md # Project documentation
+- figma-link.txt # Contains the Figma design link 
+- screenshots.pdf # Exported design previews 
+- README.md # Project documentation
